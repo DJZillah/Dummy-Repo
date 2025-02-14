@@ -1,6 +1,7 @@
 This is a new file
 Here is a new line yoclear
-:q!
+
+NO
 
 
 
